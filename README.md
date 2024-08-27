@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 **Explain what software engineering is and discuss its importance in the technology industry**
 Software Engineering: The disciplined approach to designing, developing, testing, and maintaining software.
-Importance: It ensures that software is reliable, secure, and meets user needs, which is crucial as software drives innovation and operations in the tech industry.
+Importance: It ensures that software is reliable, secure, and meets user needs, which is crucial as software drives innovation and operations in the tech industry.   
 
 **Identify and describe at least three key milestones in the evolution of software engineering**
 Structured Programming (1960s): Modular code design.
